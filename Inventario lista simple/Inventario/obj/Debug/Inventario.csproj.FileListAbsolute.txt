@@ -1,0 +1,21 @@
+C:\Users\reyin\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\reyin\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\reyin\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\reyin\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\reyin\Desktop\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\reyin\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\reyin\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\reyin\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\reyin\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\obj\Debug\Inventario.exe
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\obj\Debug\Inventario.pdb
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\bin\Debug\Inventario.exe
+C:\Users\reyin\Desktop\Inventario lista simple\Inventario\bin\Debug\Inventario.pdb
+C:\Users\reyin\Desktop\Estructura de datos\Inventario lista simple\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\reyin\Desktop\Estructura de datos\Inventario lista simple\Inventario\obj\Debug\Inventario.exe
+C:\Users\reyin\Desktop\Estructura de datos\Inventario lista simple\Inventario\obj\Debug\Inventario.pdb
